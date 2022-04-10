@@ -1,4 +1,4 @@
-package com.jp.surepay.annotation;
+package com.jp.sp.annotation;
 
 import org.apache.commons.io.FilenameUtils;
 import org.springframework.web.multipart.MultipartFile;

@@ -1,9 +1,9 @@
-package com.jp.surepay.controller;
+package com.jp.sp.controller;
 
-import com.jp.surepay.annotation.FileTypeAllowed;
-import com.jp.surepay.enums.FileType;
-import com.jp.surepay.pojo.FileValidationResult;
-import com.jp.surepay.service.ValidationService;
+import com.jp.sp.annotation.FileTypeAllowed;
+import com.jp.sp.enums.FileType;
+import com.jp.sp.pojo.FileValidationResult;
+import com.jp.sp.service.ValidationService;
 import org.apache.commons.io.FilenameUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

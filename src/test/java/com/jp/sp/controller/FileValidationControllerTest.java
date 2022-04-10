@@ -1,4 +1,4 @@
-package com.jp.surepay.controller;
+package com.jp.sp.controller;
 
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.DisplayName;

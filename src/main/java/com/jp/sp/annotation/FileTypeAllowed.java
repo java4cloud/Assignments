@@ -1,4 +1,4 @@
-package com.jp.surepay.annotation;
+package com.jp.sp.annotation;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;

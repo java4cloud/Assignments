@@ -1,7 +1,7 @@
-package com.jp.surepay.parser;
+package com.jp.sp.parser;
 
-import com.jp.surepay.interfaces.IFileParser;
-import com.jp.surepay.pojo.FileDataObject;
+import com.jp.sp.interfaces.IFileParser;
+import com.jp.sp.pojo.FileDataObject;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

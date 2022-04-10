@@ -1,4 +1,4 @@
-package com.jp.surepay.pojo;
+package com.jp.sp.pojo;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import lombok.AllArgsConstructor;

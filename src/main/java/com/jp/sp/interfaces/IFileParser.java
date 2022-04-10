@@ -1,6 +1,6 @@
-package com.jp.surepay.interfaces;
+package com.jp.sp.interfaces;
 
-import com.jp.surepay.pojo.FileDataObject;
+import com.jp.sp.pojo.FileDataObject;
 
 import java.io.IOException;
 import java.io.InputStream;

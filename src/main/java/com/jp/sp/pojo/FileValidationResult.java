@@ -1,4 +1,4 @@
-package com.jp.surepay.pojo;
+package com.jp.sp.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

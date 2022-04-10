@@ -1,8 +1,8 @@
-package com.jp.surepay.enums;
+package com.jp.sp.enums;
 
-import com.jp.surepay.interfaces.IFileValidator;
-import com.jp.surepay.pojo.FileDataObject;
-import com.jp.surepay.pojo.FileValidationResult;
+import com.jp.sp.interfaces.IFileValidator;
+import com.jp.sp.pojo.FileDataObject;
+import com.jp.sp.pojo.FileValidationResult;
 
 import java.util.List;
 import java.util.stream.Collectors;

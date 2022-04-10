@@ -1,8 +1,8 @@
-package com.jp.surepay.service;
+package com.jp.sp.service;
 
-import com.jp.surepay.enums.FileValidation;
-import com.jp.surepay.pojo.FileDataObject;
-import com.jp.surepay.pojo.FileValidationResult;
+import com.jp.sp.enums.FileValidation;
+import com.jp.sp.pojo.FileDataObject;
+import com.jp.sp.pojo.FileValidationResult;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

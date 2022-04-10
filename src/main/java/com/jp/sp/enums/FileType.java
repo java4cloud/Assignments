@@ -1,9 +1,9 @@
-package com.jp.surepay.enums;
+package com.jp.sp.enums;
 
-import com.jp.surepay.interfaces.IFileParser;
-import com.jp.surepay.interfaces.IFileType;
-import com.jp.surepay.parser.CSVFileParser;
-import com.jp.surepay.parser.JSONFileParser;
+import com.jp.sp.interfaces.IFileParser;
+import com.jp.sp.interfaces.IFileType;
+import com.jp.sp.parser.CSVFileParser;
+import com.jp.sp.parser.JSONFileParser;
 
 import java.util.Arrays;
 import java.util.HashMap;
